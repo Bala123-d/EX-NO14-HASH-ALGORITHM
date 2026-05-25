@@ -61,7 +61,7 @@ return 0;
 ```
 
 ## Output:
-<img width="1729" height="828" alt="Screenshot 2025-11-14 142347" src="https://github.com/user-attachments/assets/c333c17c-b9ab-4c79-b3db-5a87d1b1e884" />
+<img width="1746" height="987" alt="Screenshot 2026-05-25 143006" src="https://github.com/user-attachments/assets/0d5c6c8d-dbbf-4f7b-ae64-27d0c473f02e" />
 
 ## Result:
 The program is executed successfully.
